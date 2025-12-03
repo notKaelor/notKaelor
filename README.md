@@ -11,12 +11,4 @@ age = 18
 kernel = "linux"
 distro = "arch btw"
 ```
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
 Proud Furry!
