@@ -1,16 +1,24 @@
-## Hi there 👋
+Hey!
+I’m **Kaelor**, a technology enthusiast from Argentina.
+```toml
+name = "Kaelor"
 
-<!--
-**notKaelor/notKaelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[about_me]
+age = 18
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[os]
+kernel = "linux"
+distro = "arch btw"
+```
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+Proud Furry!
