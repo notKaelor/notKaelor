@@ -1,11 +1,15 @@
-Hey!
+Hey! 👋
+
+
 I’m **Kaelor**, a technology enthusiast from Argentina.
 ```toml
 name = "Kaelor"
 
 [about_me]
+species = "raccoon🦝/bee🐝"
 age = 18
-
+studying = "computer_engineering"
+hobbies = "🎸🎮♟️"
 
 [os]
 kernel = "linux"
