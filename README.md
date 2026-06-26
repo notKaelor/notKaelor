@@ -8,7 +8,7 @@ name = "Kaelor"
 [about_me]
 species = "raccoon🦝/bee🐝"
 age = 18
-studying = "computer_engineering"
+studying = "software_engineering"
 hobbies = "🎸🎮♟️"
 
 [os]
