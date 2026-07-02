@@ -3,7 +3,7 @@ Hey! 👋
 
 I’m **Gliko**, a technology enthusiast from Argentina.
 ```toml
-name = "Kaelor"
+name = "Gliko"
 
 [about_me]
 species = "Cat :3"
