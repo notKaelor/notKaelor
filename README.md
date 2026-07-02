@@ -1,12 +1,12 @@
 Hey! 👋
 
 
-I’m **Kaelor**, a technology enthusiast from Argentina.
+I’m **Gliko**, a technology enthusiast from Argentina.
 ```toml
 name = "Kaelor"
 
 [about_me]
-species = "raccoon🦝/bee🐝"
+species = "Cat :3"
 age = 18
 studying = "software_engineering"
 hobbies = "🎸🎮♟️"
