@@ -6,7 +6,7 @@ I’m **Gliko**, a technology enthusiast from Argentina.
 name = "Gliko"
 
 [about_me]
-species = "Cat :3"
+species = "Cat"
 age = 18
 studying = "software_engineering"
 hobbies = "🎸🎮♟️"
